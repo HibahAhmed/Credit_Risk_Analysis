@@ -20,3 +20,10 @@ Undersampling
 Combination (Over and Under) Sampling
 
 ![image](https://user-images.githubusercontent.com/95547517/166123887-8860caa9-5800-46d4-bebc-cc6277c59ddf.png)
+
+Balanced Random Forest Classifier
+![image](https://user-images.githubusercontent.com/95547517/166124622-63698850-1b60-47cd-837d-60a5891220f5.png)
+
+Easy Ensemble AdaBoost Classifier
+![image](https://user-images.githubusercontent.com/95547517/166124666-21fd48fa-581c-4a79-9c30-7f8a3ef5e59b.png)
+
