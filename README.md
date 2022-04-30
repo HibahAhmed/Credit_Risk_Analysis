@@ -18,4 +18,5 @@ Undersampling
 ![image](https://user-images.githubusercontent.com/95547517/166123873-aed262e9-df50-4b67-8f09-6f8f9cb74588.png)
 
 Combination (Over and Under) Sampling
+
 ![image](https://user-images.githubusercontent.com/95547517/166123887-8860caa9-5800-46d4-bebc-cc6277c59ddf.png)
